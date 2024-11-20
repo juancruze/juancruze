@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Juan Cruz De Angelis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=200px alt="image" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/14205259-3456-4d74-8583-1a0f2736b41c/dep78an-b527a6b3-d07d-4c4f-818f-e8bc5b300a75.png/v1/fill/w_1280,h_1114/omega_symbol__god_of_war_2018__by_rootofalllight_dep78an-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTExNCIsInBhdGgiOiJcL2ZcLzE0MjA1MjU5LTM0NTYtNGQ3NC04NTgzLTFhMGYyNzM2YjQxY1wvZGVwNzhhbi1iNTI3YTZiMy1kMDdkLTRjNGYtODE4Zi1lOGJjNWIzMDBhNzUucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.P4cY0Aojx7CqO43MfTr6mNMRAldo4eFeClvd9Pm6A78" />
+<img align="right" width=200px alt="image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmh4aWw2amw0c3c3cHNra2x2azloNDQ1bXpiYjc5Nzl3MjZwdTE3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.webp" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***
+***About Me***
 
 I am currently studying the Bachelor of University Technician in Programming at (UTN) and I am halfway through finishing it.
 I am passionate about front-end and back-end development, constantly learning and improving my skills.
