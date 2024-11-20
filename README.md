@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Juan Cruz De Angelis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=200px alt="image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmh4aWw2amw0c3c3cHNra2x2azloNDQ1bXpiYjc5Nzl3MjZwdTE3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.webp" />
-
 ***About Me***
 
 I am currently studying the Bachelor of University Technician in Programming at (UTN) and I am halfway through finishing it.
